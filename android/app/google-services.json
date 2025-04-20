@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818467797276",
+    "project_id": "apna-mandi-4024a",
+    "storage_bucket": "apna-mandi-4024a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818467797276:android:1939cec5e02200ceba62d9",
+        "android_client_info": {
+          "package_name": "com.example.apna_mandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSsEr3RVwoM4b4mcIcVw6wR8mHS3Fl_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
