@@ -1,16 +1,19 @@
-# apna_mandi
+# 🌾 **APNA MANDI**
 
-A new Flutter project.
+**Apna Mandi** is a smart agriculture e-commerce platform that enables farmers to sell their crops directly to our team without middlemen. It ensures instant payments, scheduled pickups, and reduces post-harvest wastage through a streamlined tech-based solution.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📱 Easy slot booking for crop pickups  
+- 🧪 Crop/moisture analysis system  
+- 🛻 Home pickup service at farmer's convenience  
+- 💰 Instant payment (cash/online)  
+- 🧊 Crop preservation in warehouses  
+- ❌ No middlemen – fair pricing for farmers  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform mobile app development  
+- **Dart** – Programming language  
+- **Firebase** – Realtime database, authentication, and cloud services  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
